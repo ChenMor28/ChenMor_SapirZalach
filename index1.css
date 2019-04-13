@@ -1,0 +1,78 @@
+
+
+
+#t1{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    margin-bottom: 10px;
+    left: 35%;
+    font-size: 25px;
+}
+
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+iframe{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+body {background-image: url("https://images.pexels.com/photos/1268877/pexels-photo-1268877.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Amatic SC', cursive;
+
+
+}
+
+
+#t2{
+
+    background: rgba(255,255,255, 0.5);
+    position: absolute;
+    width:15%;
+    top:1600px;
+    left:900px;
+    height: 350px;
+    right:500px;
+    text-align: center;
+    direction: rtl;
+
+}
+
+#maps{
+    position: absolute;
+    right:670px;
+    left: 200px;
+    top:1650px;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    top: 900px;
+    font-family: 'Amatic SC', cursive;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+#t3{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 25px;
+    margin-bottom: 900px;
+    left: 35%;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+
+
